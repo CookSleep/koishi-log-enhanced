@@ -33,11 +33,11 @@
 
 ## 一键复制
 
-- **`T` (Text)**
-
 <img width="410" height="130" alt="image" src="https://github.com/user-attachments/assets/f1195b61-c973-431a-b94d-1ef6eb2ba06e" />
 
 <img width="410" height="130" alt="image" src="https://github.com/user-attachments/assets/511bc894-a290-4c54-928e-2324ac911183" />
+
+- **`T` (Text)**
 
 ```
 Detected GIF image, which is not supported by most models. Please install chatluna-image-service plugin to parse GIF animations.
